@@ -21,7 +21,7 @@ public class ReadingEmail {
     private Store store = null;
     private Folder inbox = null;
     private String userName = "bye.webster@gmail.com";// provide user name
-    private String password = "BlackCoffee123";// provide password
+    private String password = "";// provide password
 
     public ReadingEmail() {
 
